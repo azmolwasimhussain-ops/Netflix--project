@@ -24,7 +24,7 @@ This project recreates the cinematic feel of Netflix's homepage — perfect for 
 
 🛠️ **Technologies Used**
 - **HTML**  
-- **CSS3 (Flexbox & Grid)**  
+- **CSS (Flexbox & Grid)**  
  
 
 ---
